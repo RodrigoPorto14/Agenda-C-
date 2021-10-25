@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1618837767 source:c:\users\user\desktop\agenda_telefonica\main.cpp
+	<bits/stdc++.h>
+	"agenda.h"
+	"Contato.h"
+
+1618851772 c:\users\user\desktop\agenda_telefonica\include\agenda.h
+	<bits/stdc++.h>
+	"Contato.h"
+
+1618852809 c:\users\user\desktop\agenda_telefonica\include\contato.h
+	<bits/stdc++.h>
+
+1618852809 source:c:\users\user\desktop\agenda_telefonica\src\agenda.cpp
+	"agenda.h"
+
+1618847365 source:c:\users\user\desktop\agenda_telefonica\src\contato.cpp
+	"Contato.h"
+
+1618852809 source:c:\users\user\desktop\scripts - c\agenda_telefonica\src\agenda.cpp
+	"agenda.h"
+
+1618851772 c:\users\user\desktop\scripts - c\agenda_telefonica\include\agenda.h
+	<bits/stdc++.h>
+	"Contato.h"
+
+1618852809 c:\users\user\desktop\scripts - c\agenda_telefonica\include\contato.h
+	<bits/stdc++.h>
+
+1618847365 source:c:\users\user\desktop\scripts - c\agenda_telefonica\src\contato.cpp
+	"Contato.h"
+
+1618852983 source:c:\users\user\desktop\scripts - c\agenda_telefonica\main.cpp
+	<bits/stdc++.h>
+	"agenda.h"
+	"Contato.h"
+
